@@ -1,1 +1,1 @@
-# -S50-finance
+# CS50-finance
