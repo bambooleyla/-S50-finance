@@ -1,0 +1,6 @@
+-- database: /workspaces/117303890/finance/finance.db
+-- Чтобы выполнить весь файл, нажмите кнопку ▷ в правом верхнем углу окна.
+SELECT
+    *
+FROM
+    "purchase";
